@@ -1,0 +1,29 @@
+body{
+    background: -webkit-gradient(linear, right top, left top, from(#EAECC6), to(#2BC0E4));
+    background: linear-gradient(to left, #EAECC6, #2BC0E4);
+    width: 80%;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 700px;
+    text-align: center;
+    color: chocolate;
+}
+
+h1,
+h3{
+    text-align: center;
+    width: 80%;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 700px;
+}
+
+h1:first-child{
+    text-decoration: underline;
+    color: crimson;
+}
+
+.win{
+	color : green;
+}
